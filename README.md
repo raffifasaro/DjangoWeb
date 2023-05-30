@@ -1,0 +1,2 @@
+# DjangoWeb
+Simple Django project
