@@ -1,2 +1,2 @@
 # DjangoWeb
-Simple Django project
+Django project WIP
